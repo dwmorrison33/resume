@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "name": "David Morrison",
+    "label": "Jr Developer",
+    "picture": "/home/david/Desktop/dave1.jpg",
+    "email": "davem220@gmail.com",
+    "phone": "(813) 495-0134",
+    "website": "http://www.imdavemorrison.com",
+    "summary": "David is from Tampa, FL. He has earned degrees from the University of South Florida and St. Petersburg College. He is now a Jr Developer looking for new positions in the Bay area.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Click here to view my LinkedIn account",
+        "url": "https://www.linkedin.com/in/david-morrison-a126585?trk=hp-identity-name"
+      },
+      {
+        "network": "Github",
+        "username": "Click here to view my Github account",
+        "url": "https://github.com/dwmorrison33"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "HiVelocity Hosting",
+      "position": "Dev Team Intern",
+      "website": "",
+      "startDate": "2015-09-15",
+      "endDate": "2015-10-23",
+      "summary": "HiVelocity is a data center that deploys bare-metal servers, virtual servers, and both public and private cloud hosted solutions. ",
+      "highlights": [
+        "Developed full stack web applications using Python and the web framework Django.",
+        "Maintained code base via git source control.",
+        "Researched product specifications to ensure current projects were completed accurately.",
+        "Technologies utilized: Django, Python, HTML, CSS, Javascript, Bootstrap, git, Command line, bash, and vagrant."
+      ]
+    },
+    {
+      "company": "Aflac",
+      "position": "Benefits Consultant",
+      "website": "",
+      "startDate": "2011-10-01",
+      "endDate": "2014-03-11",
+      "highlights": [
+        "Strategic Sales Planning: Targeted niche business markets to generate leads and set appointments with business owners.",
+        "Consulted with business owners on how to best fit their employees' needs with the current rising healthcare costs",
+        "Presented effective client presentations in group and individual settings.",
+        "High closing ratios of accounts and sales.",
+        "Networking Skills: Excellent track record of targeting and administering new accounts.",
+        "Sales Performance: 11 new accounts in first 12 months with $120,000 in sales.",
+        "Account Management: Provided all account management services and assisted policy holders with claims."
+      ]
+    },
+    {
+      "company": "Self Employed",
+      "position": "Online Sales Through Ebay",
+      "website": "",
+      "startDate": "2007-07-01",
+      "endDate": "2009-04-01",
+      "highlights": [
+        "Independently located an arbitrage market in the cigar industry and capitalized on it by selling rare/collectible cigars on Ebay.",
+        "Founded and directed all operations of my cigar business.",
+        "Responsible for purchasing large quantities of cigars within Tampa and properly storing them at my home.",
+        "Strategically determined the best time of sale to reach the largest customer base and then created listings in the auction format to maximize profits.",
+        "Created and updated a weekly cash flow statement to document the profit earned and the return on investment.",
+        "Averaged a 67% ROI on cigar sales and retained 25% of the total sale of customers items.",
+        "Effectively communicated with customers through Ebay, phone, and email to ensure complete customer satisfaction.",
+        "Retained 100% customer satisfaction rating for the entirety of my entrepreneurship."
+      ]
+    },
+    {
+      "company": "Bayside Covenant Church",
+      "position": "Director: High School Ministry",
+      "website": "",
+      "startDate": "2007-01-06",
+      "endDate": "2008-07-26",
+      "highlights": [
+        "Assisted a team of 10 staff  in developing the yearly youth ministry program for 350 high school students.",
+        "Recruited and interviewed prospective adult volunteers.",
+        "Developed curriculum to lead and train over 60 adult volunteers.",
+        "Lead a student-leadership team and a small group held weekly.",
+        "Regularly lead and spoke to 350 high school students.",
+        "Lead a team of over 800 adult leaders and high school students on a mission trip to Mexico for 2 consecutive years.",
+        "Prepared financial reports for all students going to Mexico that documented their current donations received and balance due for the cost of the trip."
+      ]
+    },
+    {
+      "company": "Publix Super Markets",
+      "position": "Assistant to the Produce Manager",
+      "website": "",
+      "startDate": "1999-10-11",
+      "endDate": "2006-11-14",
+      "highlights": [
+        "Controlled inventory by ordering and ensuring increased sales through product placement and exceptional customer service.",
+        "Maximized sales and eliminated waste of product through accurate sales forecasting/recording.",
+        "Resolved customer complaints and assisted them with any questions.",
+        "Continuously assisted management with the daily upkeep of sales records for produce and floral departments.",
+        "Assisted management with training new produce employees, to utilize their full potential and maximize efficiency."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of South Florida",
+      "area": "Finance",
+      "studyType": "Bachelor of Science",
+      "startDate": "2005-01-01",
+      "endDate": "2006-06-27"
+    },
+    {
+      "institution": "St. Petersburg College",
+      "area": "Accounting",
+      "studyType": "Associate in Arts, Certificate in Accounting Applications",
+      "startDate": "1997-09-01",
+      "endDate": "2000-12-15"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Bootstrap",
+        "Python",
+        "Django"
+      ]
+    }],
+  "references": [
+    {
+      "name": "Zachary Kazanski, Senior Developer",
+      "reference": "It is my pleasure to recommend David, his performance working as a intern for Hivelocity Hosting proved that he will be a valuable addition to any company."
+    }
+  ]
+}
